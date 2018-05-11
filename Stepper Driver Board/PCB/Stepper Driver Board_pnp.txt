@@ -1,0 +1,50 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Stepper Driver Board
+*Date=01:45:21
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;15.2738;-61.1023;0;Bottom;DRV 1
+2;;THT;97.7443;-61.0708;0;Bottom;6
+3;1µF;200 mil [THT, electrolytic];12.9605;-6.0996;-90;Bottom;C
+4;;THT;47.2265;-38.7753;0;Bottom;4
+5;;THT;94.2586;-85.6501;180;Bottom;1 2 3 4 5 6 7 8
+6;;;36.7661;-38.6548;0;Bottom;DRV 4
+7;;THT;97.7443;-38.4931;0;Bottom;8
+8;;THT;95.5719;-4.73194;180;Bottom;+12-
+9;;;50.753;-97.6481;0;Bottom;TXT1
+10;;;36.7661;-61.1023;0;Bottom;DRV 2
+11;;THT;59.0691;-15.2487;90;Bottom;+FAN-
+12;;THT;51.6104;-4.55826;0;Bottom;+5-
+13;;;15.1002;-38.8285;0;Bottom;DRV 3
+14;;;87.0019;-38.6546;0;Bottom;DRV 8
+15;;THT;25.7777;-61.3529;0;Bottom;1
+16;;;65.5095;-38.6546;0;Bottom;DRV 7
+17;;THT;44.958;-15.2487;90;Bottom;+FAN-
+18;10k;THT;87.4889;-94.6364;0;Bottom;R1
+19;10k;THT;87.4889;-89.5564;0;Bottom;R3
+20;10k;THT;87.4889;-84.1941;0;Bottom;R6
+21;;THT;76.0132;-60.7886;0;Bottom;5
+22;;;27.4317;-43.1829;-90;Bottom;Arduino Mega
+23;10k;THT;87.4889;-79.1141;0;Bottom;R8
+24;;;65.2489;-60.8635;0;Bottom;DRV 5
+25;;THT;3.71941;-4.73191;180;Bottom;+12-
+26;;THT;47.2265;-61.3531;0;Bottom;2
+27;10k;THT;87.4889;-92.0964;0;Bottom;R2
+28;10k;THT;87.4889;-87.0164;0;Bottom;R4
+29;10k;THT;87.4889;-76.5741;0;Bottom;R9
+30;;THT;76.0132;-38.4931;0;Bottom;7
+31;;THT;25.7776;-39.0575;0;Bottom;3
+32;1µF;200 mil [THT, electrolytic];87.033;-6.09959;-90;Bottom;C1
+33;;THT;59.0784;-4.73194;0;Bottom;+12-
+34;10k;THT;87.4889;-81.6541;0;Bottom;R7
+35;;;87.0451;-61.1023;0;Bottom;DRV 6
